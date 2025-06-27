@@ -24,11 +24,11 @@
 
 ```
 KRITI-2024-Trading-start-/
-├── LICENSE              (License file)
-├── Quant_PS.pdf          # Problem Statement PDF for the challenge
-├── README.md             # Project summary!
-├── Report.pdf            # Final report detailing strategy, analysis, and results that was submitted to the TechBoard-IITG
-├── code.ipynb            # Jupyter notebook containing complete implementation
+├── LICENSE               (License file)
+├── Quant_PS.pdf          (Problem Statement PDF for the challenge)
+├── README.md             (Project summary!)
+├── Report.pdf            (Final report detailing strategy, analysis, and results that was submitted to the TechBoard-IITG)
+├── code.ipynb            (Jupyter notebook containing complete implementation)
 ```
 
 ## ⚙️ Strategy Logic (With Thresholds)
