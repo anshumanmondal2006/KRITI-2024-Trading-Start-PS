@@ -54,7 +54,7 @@ KRITI-2024-Trading-start-/
 | **Total Return (Buy & Hold)**   | +6.26%     |
 | **Annualized Sharpe Ratio**     | **1.33**   |
 | **Maximum Drawdown**            | **1.31%**  |
-| **Initial Capital**             | ₹1,00,000  |
+
 
 - The strategy **outperformed** buy-and-hold in returns and risk-adjusted metrics
 - Maintained **lower drawdown**, offering better downside protection
